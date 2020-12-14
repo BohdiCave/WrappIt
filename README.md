@@ -19,7 +19,7 @@ Ahh, the holidays, the time of year when you can't figure out what to buy your l
 The WrappIt App is for users who are having trouble finding that perfect gift. Open source css framewok UIkit, New York Times API for books and movies, and eBay API for home decor, cooking, makeup, and video games & consoles were used to the WrappIt App.
 
 ## Installation
-    `npm install dotenv` `npm install express` `npm install express-handlebars` `npm install mysql`  
+    `npm install dotenv` `npm install express` `npm install express-handlebars` `npm install mysql2` `npm install sequelize`  
 
 ## Usage
 Run the following command at the root of your project and answer the prompted questions:
